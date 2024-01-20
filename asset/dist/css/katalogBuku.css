@@ -1,0 +1,19 @@
+.card:hover{
+    border: 1px solid grey;
+    }
+.card-img-top{
+    width: 150px;
+}
+.mx-auto{
+    
+    height: 250px;
+}
+.card-title{
+   
+    height: 50px;
+
+}
+.card-img-top:hover{
+     transition: transform .8s;
+    transform: translateY(7px);
+}
